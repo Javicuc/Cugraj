@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_historial"
+        android:orderInCategory="100"
+        android:title="@string/historial"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_graficas"
+        android:orderInCategory="100"
+        android:title="@string/graficas"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sincronizar"
+        android:orderInCategory="100"
+        android:title="@string/sincronizar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_ayuda"
+        android:orderInCategory="100"
+        android:title="@string/ayuda"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_configuracion"
+        android:orderInCategory="100"
+        android:title="@string/configuracion"
+        app:showAsAction="never" />
+</menu>

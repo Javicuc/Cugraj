@@ -1,6 +1,16 @@
 <resources>
-    <string name="app_name">SensoUtensilio</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">CUGRAJ</string>
+    <string name="utensilio_cuchara">Cuchara</string>
+    <string name="utensilio_cuchilo">Cuchillo</string>
+    <string name="utensilio_tenedor">Tenedor</string>
+    <string name="configuracion">Configuración</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="graficas">Gráficas</string>
+    <string name="historial">Historial</string>
+    <string name="activar_bluetooth">Activar Bluetooth</string>
+    <string name="no">No</string>
+    <string name="si">Si</string>
+    <string name="defaultText">DEFAULT</string>
+    <string name="dispositivo_seleccionado">Selecciona un dispositivo</string>
 </resources>
